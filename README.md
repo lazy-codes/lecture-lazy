@@ -1,1 +1,1 @@
-# lazy-at-ai-ml
+# lazyatAi/Ml
